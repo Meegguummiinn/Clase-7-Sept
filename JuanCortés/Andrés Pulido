@@ -1,0 +1,6 @@
+VAR_1=True
+VAR_2=True
+VAR_3=True
+Maquina="X"
+Maquina= VAR_3 and (VAR_2 or VAR_1)
+print(Maquina)
